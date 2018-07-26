@@ -1,2 +1,2 @@
 # codingPractice
-OtherCodingPractice
+OtherCodingPractices
